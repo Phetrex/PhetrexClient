@@ -1,2 +1,2 @@
 # PhetrexClient
-Discord Client craeted in AutoHotKey. 
+Discord Client created in AutoHotKey. 
